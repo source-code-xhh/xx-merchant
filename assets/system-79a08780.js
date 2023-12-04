@@ -1,0 +1,1 @@
+import{r as s}from"./el-message-e610320a.js";const a=t=>s({url:"/system/white-list",method:"post",data:t}),r=t=>s({url:"/system/add-white",method:"post",data:t}),o=t=>s({url:"/system/del-white",method:"post",data:t}),d=t=>s({url:"/system/transaction-list",method:"post",data:t});export{r as a,d as b,o as d,a as w};

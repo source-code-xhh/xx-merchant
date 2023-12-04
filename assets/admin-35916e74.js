@@ -1,0 +1,1 @@
+import{r as a}from"./el-message-e610320a.js";const i=t=>a({url:"/login/login",method:"post",data:t}),n=t=>a({url:"/admin/admin-list",method:"post",data:t}),r=t=>a({url:"/admin/admin-register",method:"post",data:t}),o=t=>a({url:"/admin/del-admin",method:"post",data:t});export{n as a,r as b,o as d,i as l};

@@ -1,0 +1,1 @@
+const D=(o,n="/")=>{const t=new Date(o),s=t.getFullYear();console.log();const c=e(t.getMonth()+1),r=e(t.getDate()),$=e(t.getHours()),a=e(t.getMinutes()),g=e(t.getSeconds());return`${s}${n}${c}${n}${r} ${$}:${a}:${g}`},e=o=>o<10?`0${o}`:o;export{D as f};

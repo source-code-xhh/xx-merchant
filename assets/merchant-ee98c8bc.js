@@ -1,0 +1,1 @@
+import{r}from"./el-message-e610320a.js";const s=t=>r({url:"/user/user-list",method:"post",data:t}),a=t=>r({url:"/user/add-user",method:"post",data:t}),u=t=>r({url:"/user/edit-user",method:"post",data:t});export{a,u as e,s as m};
